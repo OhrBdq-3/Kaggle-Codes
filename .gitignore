@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+recognizing-faces-in-the-wild/
+train/
+# Ignore specific file
+config.yaml
+train_relationships.csv
