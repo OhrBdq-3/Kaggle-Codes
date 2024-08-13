@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+Recognizing Face in the Wild/recognizing-faces-in-the-wild/
+Recognizing Face in the Wild/train/
+# Ignore specific file
+
+Recognizing Face in the Wild/train_relationships.csv
