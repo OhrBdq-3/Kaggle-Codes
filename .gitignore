@@ -7,3 +7,7 @@ Recognizing Face in the Wild/train/
 # Ignore specific file
 
 Recognizing Face in the Wild/train_relationships.csv
+Binary Prediction of Poisonous Mushrooms/sample_submission.csv
+Binary Prediction of Poisonous Mushrooms/submission.csv
+Binary Prediction of Poisonous Mushrooms/train.csv
+Binary Prediction of Poisonous Mushrooms/test.csv
